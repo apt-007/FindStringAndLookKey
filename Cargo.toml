@@ -6,3 +6,4 @@ edition = "2021"
 [dependencies]
 clap = "4.0"
 openssl = "0.10"
+openssl-sys = "0.9"
